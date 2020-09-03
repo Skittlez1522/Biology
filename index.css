@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-  background: url(sunset2.png) no-repeat center center;
+  background: url(biology_green2.jpg) no-repeat center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -57,7 +57,7 @@ body {
 .btnA {
   color: #fff;
   background: #000;
-  padding: 10px 40px;
+  padding: 10px 10px;
   text-decoration: none;
   transition: background .5s;
 }
@@ -138,7 +138,7 @@ th, td {
 .container {
   position: relative;
   width: 100%;
-  color: #117bff;
+  color: #404040;
 }
 
 .image {
@@ -169,7 +169,7 @@ th, td {
 }
 
 .jumbotron {
-  background: url(https://farm2.static.flickr.com/1746/41934563624_18f26fbe91_b.jpg) center center;
+  background: url(biology_green2.jpg) no-repeat center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;

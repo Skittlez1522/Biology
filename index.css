@@ -189,13 +189,13 @@ ul#horizontal-list li {
 }
 
 table {
-  border-collapse: separate;
-  border-spacing: 0 15px;
+  border-collapse: collapse;
 }
 
 th, td {
-  width: 276px;
-  padding: 10px;
+  border: 1px solid;
+  text-align: left;
+  padding: 8px;
 }
 
 .container {
